@@ -1,0 +1,7 @@
+title: Page Not Found
+---
+body:
+###Yikes - 404 error!###
+<a href="https://www.jurgengeitner.com/" title="Jurgen Geitner's Homepage"><i class="fas fa-bug fa-5x"></i></i></a>
+This means that page you are looking for cannot be found.
+Back to my [homepage](../).

@@ -1,0 +1,22 @@
+title: 3D Exteriors
+---
+pub_date: 2009-01-01
+---
+body:
+
+I spent quite a few years working int the 3D ArchViz ([architectural vizualisation](https://www.chaosgroup.com/architectural-visualization)) field.
+The simplified version of the workflow is as follows:
+- Recieve brief from architect and property developer.
+- Go to building site to take photographs of the environment for reference.
+- Import 2D CAD plans into 3D software, clean-up and rescale to real-world units.
+- Start 3D modeling of architectural structures, roof, walls, railings, windows, landscaping etc.
+- Generate lifelike textures for the above structures.
+- Apply textures to CG material models that exhibit the correct physical characteristics, e.g reflectivity, transparency, colour etc.
+- Create a realistic lighting model for the 3D scenes.
+- Set up cameras with realistic depth-of field, shutter speed and other related settings.
+- Animate camera movements, vehicles etc.
+- Render, make adjustments, re-render.
+- Present to client.
+- Render final animations and prints for delivery.
+---
+cover_image: jg3d_exterior_3d_vray_renderings02.jpg

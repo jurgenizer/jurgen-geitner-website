@@ -1,0 +1,12 @@
+title: Lutge Gallery
+---
+body:
+
+Modified Wordpress site for [Lutge Gallery](https://lutge.co.za/). I am happy with how this site turned out, (even though I am not usually a huge fan of WordPress).
+I made a child theme to override the orginal theme, added a new single-posts.php file and modified the CSS. The PHP code in the new custom-fields.php file is to support the [Advanced Custom Fields](https://www.advancedcustomfields.com/) WordPress plugin. This enables the site owner to input well-formated values for each stock item, e.g., Stock Description, Code, Price, Availability, Height etc.
+---
+pub_date: 2017-01-20
+---
+cover_image: 1-Lutge.jpg
+---
+summary: Modified Wordpress site for Lutge Gallery

@@ -1,0 +1,29 @@
+title: About me
+---
+body:
+
+I am an older student living in Cape Town, South Africa who is interested in the intersection of science, technology and design. I study computer science part-time and work as a Technical Officer in the Faculty of Health Sciences at the [University of Cape Town](http://www.uct.ac.za/). I hold a BSc in Computing from [UNISA](https://www.unisa.ac.za/) and I'm qualified as an Industrial Designer. 
+
+When not working or studying I'm a trail-runner, surfer and hobbyist app-maker.
+
+Thanks for visiting.
+
+<section class="section">
+    <div class="container is-fluid">
+        <div class="columns is-multiline">
+            <div class="column is-one-quarter">
+                 <img src="/static/jurgen-running.jpg" alt="Photo of Jurgen trail running">
+            </div>
+            <div class="column is-one-quarter">
+                <img src="/static/jurgen-natalie.jpg" alt="Photo of Jurgen and Natalie">
+            </div>
+            <div class="column is-one-quarter">
+                <img src="/static/kimchee.jpg" alt="Photo of Kimchee cat">
+            </div>
+            <div class="column is-one-quarter">
+                <img src="/static/jurgen-pathology-learning-centre.jpg" alt="Photo of Jurgen at work in the Pathology Learning Centre">
+            </div>
+        </div>
+    </div>
+</section>   
+

@@ -1,0 +1,43 @@
+{% extends "layout.html" %}
+{% from "macros/pagination.html" import render_pagination %}
+{% block title %}Projects{% endblock %}
+{% block body %}
+<h1 class="title has-text-primary">Projects</h1>
+
+<p>
+A colection of (mostly) self-study projects that I made to teach myself practical web and app development. So much more to learn, but that's okay, I love this stuff.
+</p>
+<p>
+Click any of the projects below to learn more.
+</p>
+
+<section class="section">
+    <div class="container is-fluid">
+        <div class="columns is-multiline">
+
+        {% for post in this.pagination.items %}
+        <div class="column is-one-third">
+            <div class="box">
+
+             
+            <a href="{{ post|url }}" class="is-size-4 has-text-weight-normal">{{ post.title }}</a>
+        
+            {% set image = post.attachments.images.first() %}
+            
+            {% if image %}  
+                  <section class="section">   
+                 <a href="{{ post|url }}"><img src="{{ image.thumbnail(400)|url }}" alt="Thumbnail image for {{ post.title }}"></a>
+                  </section>
+            {% endif %}
+                        <p>{{ post.summary }}
+            <a class="more" href="{{ post|url }}">Read more ...</a></p>
+
+            </div>
+        </div>
+        {% endfor %}
+
+        </div>
+    </div>
+</section>
+
+{% endblock %}

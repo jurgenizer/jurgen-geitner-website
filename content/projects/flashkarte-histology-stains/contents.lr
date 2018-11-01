@@ -1,0 +1,18 @@
+title: FlashKarte Histology Stains
+---
+body:
+
+This app contains 21 Histology Stain Flashcards that are randomly presented, allowing you to both learn and test your knowledge of histological staining methods.
+I made this to learn about histology stains myself, and also to learn about Swift app development. 
+The basic app (before I modified the code) is based on the work of [Yong Bakos](https://github.com/SwiftEducation/Flashcards).
+
+[Download it for free from the Apple App Store](https://itunes.apple.com/us/app/flashkarte-histology-stains/id1137984274?mt=8)
+
+---
+pub_date: 2017-01-02
+---
+cover_image: 1-iphone-6-1.png
+---
+summary: I made this app to learn about histology stains and Swift
+---
+_template: project-post-three-columns.html

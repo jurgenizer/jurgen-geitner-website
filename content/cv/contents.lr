@@ -1,0 +1,132 @@
+_model: cv
+---
+title: CV
+---
+body:
+
+##Jurgen Geitner
+
+> Creative and curious. Insightful. Determined. Transitioning to a software development role.
+
+###Experience
+8 years: 		Senior Technical Officer, Pathology Learning Centre, University of Cape Town
+
+4 years: 		3D Architectural Visualisation Specialist
+
+7 years: 		3D Animator + Graphic Designer
+
+10 months: 	    Industrial Designer + Model Maker
+
+###Education
+*Degrees and Diplomas* 
+
+**Batchelor of Science in Computing** University of South Africa, 2018
+
+**National Higher Diploma in Industrial Design** Technikon Witwatersrand, Johannesburg, 1995
+
+**National Diploma in Three-Dimensional Design** Technikon Witwatersrand, Johannesburg, 1994
+
+*Certificates and  Short Courses*
+
+**UCT Web Content Management System: Domain Administrator workshop** University of Cape Town, 2014  
+
+**Data Analysis using R** COURSERA, 2013
+
+**Medical Terminology & Anatomy Course for Non-Healthcare professionals** Foundation for Professional Development, 2011
+
+###Work History
+*Current:*
+
+**Senior Technical Officer** Pathology Learning Centre (PLC), University of Cape Town, 2010 - present 
+
+Primary work focus:
+Restoring, photographing and digitising the PLC's [collection of anatomical pathology specimens for teaching](https://digitalpathology.uct.ac.za/). (4500+ anatomy specimens). I am helping to make the entire collection available online.
+
+Additional work projects:
+- Developing and deploying a novel [Python + Flask web app](https://github.com/jurgenizer/slidedb), used to display extremely high-resolution histology slides and quiz anatomical pathology students.
+- Implementing a [customised version](https://github.com/jurgenizer/plcvm) of the NYU virtual microscope. (A Python + Django web app, used to interactively display histology slides for conference attendees.)
+- Digitising microscope slides using an Olympus VS120 virtual microscope system and managing the virtual slide database, in order to assist research and teaching staff.
+- Basic histology slide analysis using ImageJ.
+- Creating and maintaining 3 Drupal websites for the PLC. ([Pathology Learning Centre](http://www.pathologylearningcentre.uct.ac.za/), [Virtual Microscopy](http://www.virtualmicroscopy.uct.ac.za/), [What happens to my blood sample?](http://www.mybloodsample.uct.ac.za/))
+- Creating teaching material that is ready for inclusion in the PLC websites.
+- Producing high quality digital and printed graphics for teaching, exhibitions and proposals. 
+
+*Past:*
+
+**3D Animator + Architectural Visualisation Specialist** RED-I, 2005 - 2009
+
+**Part-time Lecturer in 3D Animation** Touchvision, 2004 
+
+**Graphic Designer** Ster-Kinekor Theatres, 2004
+
+**Full-time Lecturer in Multimedia & Animation** Damelin, 2002 - 2003
+
+**Freelance 3D Animator + Graphic Designer**, 1999 - 2002
+
+**3D Animator + Graphic Designer** Generation D Studio, 1998 - 1999
+
+**3D Animator** Digital Arts, 1997 - 1998
+
+**Industrial Designer + Model Maker** Wishbone Studio, 1996
+
+
+###Technical skills
+---
+CVExtraInfo:
+
+###Additional Skills	
+
+Photography - Used daily to create high quality photographs of pathology specimens.
+
+Microscopy - Expert Olympus VS120 virtual microscope operator.
+
+###Languages	
+English and Afrikaans
+
+###Other Activities 	
+- UCT STOA Committee Member (Scientific & Technical Officers’ Association)
+- Mobile app development (iOS)
+- Surfing
+- Trail running
+
+###References	
+Available on request
+
+
+
+
+
+
+
+
+
+
+---
+tableTechnicalSkills:
+
+| Skill                         | Skill level  |
+|-------------------------------|--------------|
+| **Coding**                    |              |
+| HTML + CSS                    | Intermediate |
+| Swift                         | Intermediate |
+| Python                        | Intermediate |
+| JavaScript                    | Novice       |
+| **Design**                    |              |
+| Autodesk 3DS Max              | Expert       |
+| Adobe Photoshop + Illustrator | Expert       |
+| Adobe After Effects           | Intermediate |
+| **Frameworks**                |              |
+| Bulma                         | Intermediate |
+| Lektor                        | Intermediate |
+| Flask                         | Novice       |
+| Leaflet                       | Novice       |
+| Three.js                      | Novice       |
+| Bootstrap                     | Novice       |
+| **Dev Tools**                 |              |
+| Xcode                         | Intermediate |
+| Git                           | Novice       |
+| VSCode                        | Novice       |
+| CocoaPods                     | Novice       |
+| **Content Management Systems**|              |
+| Wordpress                     | Expert       |
+| Drupal                        | Intermediate |

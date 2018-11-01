@@ -1,0 +1,16 @@
+title: 2-Letter Words
+---
+body:
+
+This is the very first iOS app that I made. It is designed to help you learn the high-scoring 2-letter words that can boost your score when playing Scrabble®-type word games. It contains the 2-letter words in the TWL06 and SOWPODS lists.
+
+[Download it for free from the Apple App Store](https://itunes.apple.com/us/app/2-letter-words/id1091994278?ls=1&mt=8)
+
+---
+pub_date: 2017-01-01
+---
+cover_image: iphone-6-plusa.png
+---
+summary: Designed to help you learn the high-scoring 2-letter words that can boost your score when playing Scrabble®-type word games
+---
+_template: project-post-three-columns.html

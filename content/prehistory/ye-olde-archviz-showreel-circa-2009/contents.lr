@@ -1,0 +1,19 @@
+title: Old ArchViz Showreel CE 2009
+---
+pub_date: 2010-02-02
+---
+body:
+
+A very old 3D ArchViz (architectural vizualisation) animation that I made, when I worked in the ArchViz field.  
+Everything is computer generated - I modeled, animated and rendered the scenes using [Autodesk 3DS MAX](https://www.autodesk.com/products/3ds-max/overview) and [V-Ray 1.5](https://www.chaosgroup.com/vray/3ds-max).
+<div class="column is-three-fifths is-offset-one-fifth">
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/O0rAiPcuVPw" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+---
+_template: prehistory-post-no-images.html
+---
+cover_image: jg3g-showreel-cover.jpg
+---
+summary: 

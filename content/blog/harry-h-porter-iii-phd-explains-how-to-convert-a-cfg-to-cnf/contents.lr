@@ -1,0 +1,28 @@
+title: Harry H. Porter III Ph.D explains how to convert a CFG to CNF.
+---
+pub_date: 2017-03-09
+---
+author: Jurgen Geitner
+---
+body:
+
+Ever wondered how to convert a Context-Free Grammar (CFG) into Chomsky Normal Form (CNF)?
+Here is a wonderful, clear explanation by Portland State University's Prof. Harry Porter III.
+
+<div class="column is-three-fifths is-offset-one-fifth">
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/IiCbNhHwsws" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+
+---
+cover_image: cfg-to-cnf-cover.jpg
+---
+summary:
+
+Ever wondered how to convert a Context-Free Grammar (CFG) into Chomsky Normal Form (CNF)?
+
+
+
+---
+_template: blog-post-no-images.html

@@ -1,0 +1,19 @@
+title: car ZZ
+---
+body:
+
+Another project that I made to teach myself iOS game development using Swift. The game pays homage to the famous Zig Zag app by Ketchapp.
+My version is based on the quaintly-titled online course ["How to make a Freaking Video Game - iOS, SpriteKit, SceneKit"](https://www.udemy.com/draft/760142/) by Nick Walter and Jared Davidson.
+I wanted to develop the app further, so I added a better scoring mechanism, audio, a 3d car model and support for Apple's Game Centre and In-App Purchases. I utilized open-source libraries for the [Circle menu code](https://github.com/Ramotion/circle-menu) and [Splash view code](https://github.com/PiXeL16/RevealingSplashView).
+The 3D car is from a [Superpowers asset pack](https://github.com/sparklinlabs/superpowers-asset-packs) and took quite a lot of work to integrate into SceneKit. A fun learning exercise.
+
+[Download it for free from the Apple App Store](https://itunes.apple.com/us/app/car-zz/id1272182196)
+
+---
+pub_date: 2017-01-09
+---
+cover_image: 1-CarrZZSimulatorScreenShotSubmit1.jpg
+---
+summary: Another project that I made to teach myself iOS game development using Swift
+---
+_template: project-post-three-columns.html

@@ -1,0 +1,20 @@
+title: Lektor, Bulma, Markdown and Netlify
+---
+body:
+
+I made a small [demo site](https://happyhols.co.za/spots/) to learn about [Lektor](https://www.getlektor.com/), [Bulma](https://bulma.io/), [Markdown](https://daringfireball.net/projects/markdown/) and [Netlify](https://www.netlify.com).
+
+- Lektor is a well-thought out Static Content Management System that is built with Python and uses Jinja2 templating. If you enjoy developing with Flask, you will probably like this as it's developed by the same person, Armin Ronacher. And because it's a static site generator, no database is necessary.
+- Bulma is my new favourite CSS framework. It's lightweight, responsive, easy to implement and customize. It is well-documented too.
+- Markdown you probably know already, but essentially it's a way to write web-page-content simply, without worrying about HTML tags and formatting. Markdown converts your text to HTML.
+- The demo site is hosted on a [GitHub repo](https://github.com/jurgenizer/hh-lektor), and deployed to Netlify. Whenever your repo is updated, Netlify rebuilds your site and deploys the updated content automatically. For free. With a SSL certificate. Awesome!
+---
+author: Jurgen Geitner
+---
+pub_date: 2018-10-24
+---
+summary:
+
+I made a small demo site to 
+---
+cover_image: 1-happyhols.jpg

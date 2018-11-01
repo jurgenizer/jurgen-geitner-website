@@ -1,0 +1,14 @@
+title: AdMob and CustomAds Helpers for Swift and SpriteKit...
+---
+pub_date: 2016-09-14
+---
+author: Jurgen Geitner
+---
+body:
+
+If you ever need to integrate AdMob ads into your SpriteKit game or Swift app, these helper classes are very useful:
+A Swift collection of helper classes to integrate AdMob, AppLovin (tvOS) and your own CustomAds into your app.(https://github.com/crashoverride777/Swift-AdvertisingHelper)
+
+They make it easy to display ad banners wherever you like in your app e.g., in a Game Over scene.
+---
+summary: A Swift collection of helper classes to integrate AdMob, AppLovin (tvOS) and your own CustomAds into your app.

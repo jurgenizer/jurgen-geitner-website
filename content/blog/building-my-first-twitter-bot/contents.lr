@@ -1,0 +1,32 @@
+title: Building my first Twitter bot.
+---
+author: Jurgen Geitner
+---
+pub_date: 2017-06-25
+---
+summary: This is something I’ve been wanting to do for the longest time.
+---
+body:
+
+This is something I’ve been wanting to do for the longest time. However, I have been putting it off for various reasons, e.g. worrying that it would be too difficult.
+
+I finally got around to building a Twitter bot this week and surprisingly, it was super-easy. There are many tutorials on the internet that explain how to build a Twitter bot. The one I chose is Build-a-Bot workshop, available as a GitBook and pdf here: [https://www.gitbook.com/book/spinecone/build-a-bot-workshop/details](https://www.gitbook.com/book/spinecone/build-a-bot-workshop/details)
+
+### I chose it because:
+* It is well documented and easy to follow.
+* It makes use of [PythonAnywhere](https://www.pythonanywhere.com) for the server hosting and scheduling. I didn’t want to faff with configuring a server and seeing as I already have a PythonAnywhere account, this was a no-brainer.
+As an aside, PythonAnywhere’s support is really excellent. They helped me with a previous project, a [Virtual Microscope](http://jurgenizer.pythonanywhere.com/virtualmicroscope/collection/7/), but that’s a story for another day.
+
+### The bot subject matter.
+The bot tweets a snippet from Max Ehrmanns’s [Desiderata](https://en.wikipedia.org/wiki/Desiderata) every day.
+It’s a bit of a new-agey/hippy choice, but I wanted to use something that has a positive message and is in the public domain. (Which I believe it is). To quote Daniel Nester’s article [In search of “Desiderata”](https://www.poetryfoundation.org/features/articles/detail/70274): "In the current age of portentous manifestos, "Desiderata" serves as a template for making grand statements we can all up-vote." I rather like that.
+
+### Visit the bot: [@DailyDesiderata](https://twitter.com/DailyDesiderata)
+
+### Conclusion
+The tutorial took me about 45 minutes to complete, with time for a coffee-break too. The whole experience was pleasantly uneventful from the point of view that everything worked as expected, and I would really recommend this tut for beginners wanting to make a Twitter bot. (Even if you have little or no programing experience).
+
+It’s really satisfying for me to read my bot’s tweets, knowing that I have dipped my toes, ever so slightly, into the world of AI. I plan to make a few more bots in time to come. Two of my favorite, more complex Twitter bots are: [@poem_exe](https://twitter.com/poem_exe) and [@generativebot](https://twitter.com/generativebot?lang=en)
+
+---
+cover_image: dailydesideratatwitter.png

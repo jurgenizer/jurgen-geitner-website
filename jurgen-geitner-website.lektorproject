@@ -1,0 +1,5 @@
+[project]
+name = jurgen-geitner-website
+url = https://www.jurgengeitner.com
+locale = en_Za
+url_style = absolute

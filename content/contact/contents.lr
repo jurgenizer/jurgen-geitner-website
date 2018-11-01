@@ -1,0 +1,28 @@
+_model: page
+---
+title: Contact
+---
+body:
+
+<form method="POST" action="https://formspree.io/jurgen.geitner@gmail.com">
+    <div class="field">
+        <label class="label">Name</label>
+        <div class="control">
+            <input class="input" type="email" name="email" placeholder="Your email">
+        </div>
+    </div>    
+                
+                
+    <div class="field">
+        <label class="label">Message</label>
+        <div class="control">                
+            <textarea class="textarea" name="message" placeholder="Your message"></textarea>
+        </div>
+    </div>  
+    
+    <div class="field">
+        <div class="control">
+            <button class="button is-link" type="submit">Send</button>
+        </div>
+    </div>  
+</form>

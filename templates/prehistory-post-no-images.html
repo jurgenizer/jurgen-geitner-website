@@ -1,0 +1,37 @@
+{% extends "layout.html" %}
+{% block title %}{{ this.title }}{% endblock %}
+{% block body %}
+<h1 class="title has-text-primary">{{ this.title }}</h1>
+
+<section class="section">
+    <div class="content">
+    <div class="box">
+    {{ this.body }}
+    {% set image = this.attachments.images.first() %}
+    {% if image %}
+    <div class="page-banner page-banner-512" style="background-image: url({{ image|url }})"></div>
+    {% endif %}
+
+    </div> 
+    </div> 
+</section>  
+  
+<section class="section">
+<div class="container">
+{% set siblings = this.get_siblings() %}
+{% set older = siblings.next_page %}
+{% set newer = siblings.prev_page %}
+
+<nav class="pagination" role="navigation" aria-label="pagination">
+
+        {% if older %}
+            <a class="pagination-previous" href="{{ older|url }}">Previous: {{ older.title }}</a>
+        {% endif %}
+        {% if newer %}
+            <a class="pagination-next" href="{{ newer|url }}">Next: {{ newer.title }}</a>
+        {% endif %}
+</nav>
+</div> 
+</section>
+
+{% endblock %}

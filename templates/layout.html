@@ -1,0 +1,141 @@
+<!doctype html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Jurgen Geitner, software developer, designer and eternal student.">
+
+<link rel="stylesheet" href="{{ '/static/jurgen-bulma.min.css'|url }}"> 
+<link rel="stylesheet" href="{{ '/static/responsive-video.css'|url }}"> 
+
+<!-- favicon thank you realfavicongenerator -->
+<link rel="apple-touch-icon" sizes="180x180" href="/static/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/static/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/static/favicon-16x16.png">
+<link rel="manifest" href="/static/site.webmanifest">
+<link rel="mask-icon" href="/static/safari-pinned-tab.svg" color="#de7a59">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="theme-color" content="#ffffff">
+
+
+<title>{% block title %}{% endblock %} | Jurgen Geitner, developer, designer, student</title>
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/solid.css" integrity="sha384-uKQOWcYZKOuKmpYpvT0xCFAs/wE157X5Ua3H5onoRAOCNkJAMX/6QF0iXGGQV9cP" crossorigin="anonymous">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/brands.css" integrity="sha384-BCEeiNUiLzxxoeYaIu7jJqq0aVVz2O2Ig4WbWEmRQ2Dx/AAxNV1wMDBXyyrxw1Zd" crossorigin="anonymous">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/fontawesome.css" integrity="sha384-HU5rcgG/yUrsDGWsVACclYdzdCcn5yU8V/3V84zSrPDHwZEdjykadlgI6RHrxGrJ" crossorigin="anonymous">
+
+</head>
+
+<body>
+
+
+<nav class="navbar is-primary" role="navigation" aria-label="main navigation">
+<div class="container">
+    <div class="navbar-brand">
+
+        <a href="{{ '/'|url }}">
+        <img src="{{ '/static/jurgen-geitner-logo-optimized.svg'|url }}" width="198.6" height="47.5">
+        
+</a> 
+        
+        <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarMenu">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        </a>
+    </div>
+
+    <div id="navbarMenu" class="navbar-menu">
+    <div class="navbar-end">
+  
+      <a href="{{ '/projects'|url }}" class="navbar-item">
+        Projects
+      </a>
+      
+      <a href="{{ '/cv'|url }}" class="navbar-item">
+        CV
+      </a>
+      
+      <a href="{{ '/prehistory'|url }}" class="navbar-item">
+        Prehistory
+      </a>
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        
+        <a class="navbar-link">
+          More
+        </a>
+
+            <div class="navbar-dropdown">
+                <a href="{{ '/blog'|url }}" class="navbar-item">
+                    <i class="fas fa-pencil-alt fa-fw"></i>&nbsp;Blog
+                </a>
+                <a href="{{ '/contact'|url }}" class="navbar-item">
+                    <i class="fas fa-envelope fa-fw"></i>&nbsp;Contact
+                </a>
+                <a href="https://github.com/jurgenizer" class="navbar-item">
+                    <i class="fab fa-github fa-fw"></i>&nbsp;GitHub
+                </a>
+                <a href="https://www.linkedin.com/in/jurgen-geitner" class="navbar-item">
+                    <i class="fab fa-linkedin fa-fw"></i>&nbsp; LinkedIn
+                </a>
+            <div>
+          
+      </div>
+      
+    </div>
+    </div>
+
+</div>
+</nav>
+
+<section class="section">
+    <div class="container">
+        <div class="content">
+        {% block body %}{% endblock %}
+        </div>
+    </div>
+</section>
+
+
+
+<footer class="footer has-text-white">
+    <div class="content has-text-centered">
+    &copy; Copyright 2018 by Jurgen Geitner <a href="https://github.com/jurgenizer" title="Jurgen Geitner on GitHub"
+            ><i class="fab fa-github"></i></a> | Made with <a href="https://www.getlektor.com/">Lektor</a> in Cape Town | Hosted by <a href="https://www.netlify.com">Netlify</a>    
+  
+    
+    
+    </div>
+</footer>
+
+<script type="text/javascript">
+document.addEventListener('DOMContentLoaded', () => {
+
+  // Get all "navbar-burger" elements
+  const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+
+  // Check if there are any navbar burgers
+  if ($navbarBurgers.length > 0) {
+
+    // Add a click event on each of them
+    $navbarBurgers.forEach( el => {
+      el.addEventListener('click', () => {
+
+        // Get the target from the "data-target" attribute
+        const target = el.dataset.target;
+        const $target = document.getElementById(target);
+
+        // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+        el.classList.toggle('is-active');
+        $target.classList.toggle('is-active');
+
+      });
+    });
+  }
+
+});
+</script>
+
+</body>
+</html>
