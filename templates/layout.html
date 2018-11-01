@@ -5,6 +5,16 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Jurgen Geitner, software developer, designer and eternal student.">
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-93516525-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-93516525-1');
+</script>
+
 <link rel="stylesheet" href="{{ '/static/jurgen-bulma.min.css'|url }}"> 
 <link rel="stylesheet" href="{{ '/static/responsive-video.css'|url }}"> 
 
@@ -17,9 +27,9 @@
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 
-
 <title>{% block title %}{% endblock %} | Jurgen Geitner, developer, designer, student</title>
 
+<!-- fontawesome thank you fontawesome -->
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/solid.css" integrity="sha384-uKQOWcYZKOuKmpYpvT0xCFAs/wE157X5Ua3H5onoRAOCNkJAMX/6QF0iXGGQV9cP" crossorigin="anonymous">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/brands.css" integrity="sha384-BCEeiNUiLzxxoeYaIu7jJqq0aVVz2O2Ig4WbWEmRQ2Dx/AAxNV1wMDBXyyrxw1Zd" crossorigin="anonymous">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/fontawesome.css" integrity="sha384-HU5rcgG/yUrsDGWsVACclYdzdCcn5yU8V/3V84zSrPDHwZEdjykadlgI6RHrxGrJ" crossorigin="anonymous">
@@ -28,15 +38,13 @@
 
 <body>
 
-
 <nav class="navbar is-primary" role="navigation" aria-label="main navigation">
 <div class="container">
     <div class="navbar-brand">
 
         <a href="{{ '/'|url }}">
         <img src="{{ '/static/jurgen-geitner-logo-optimized.svg'|url }}" width="198.6" height="47.5">
-        
-</a> 
+        </a> 
         
         <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarMenu">
         <span aria-hidden="true"></span>
