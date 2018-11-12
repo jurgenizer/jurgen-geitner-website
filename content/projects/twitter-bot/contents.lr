@@ -1,0 +1,17 @@
+title: Twitter bot.
+---
+author: Jurgen Geitner
+---
+pub_date: 2017-09-01
+---
+summary: A Python Twitter bot.
+---
+body:
+
+A Python/Tweepy bot that tweets inspirational messages. More detailed info in my blog post [here](/blog/building-my-first-twitter-bot/)
+
+### Visit the bot: [@DailyDesiderata](https://twitter.com/DailyDesiderata)
+
+
+---
+cover_image: dailydesideratatwitter.png

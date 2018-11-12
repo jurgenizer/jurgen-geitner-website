@@ -10,7 +10,7 @@ body:
 
 This is something I’ve been wanting to do for the longest time. However, I have been putting it off for various reasons, e.g. worrying that it would be too difficult.
 
-I finally got around to building a Twitter bot this week and surprisingly, it was super-easy. There are many tutorials on the internet that explain how to build a Twitter bot. The one I chose is Build-a-Bot workshop, available as a GitBook and pdf here: [https://www.gitbook.com/book/spinecone/build-a-bot-workshop/details](https://www.gitbook.com/book/spinecone/build-a-bot-workshop/details)
+I finally got around to building a Twitter bot this week and surprisingly, it was super-easy. There are many tutorials on the internet that explain how to build a Twitter bot. The one I chose is Build-a-Bot workshop, available as a GitBook and pdf here: [https://spinecone.gitbooks.io/build-a-bot-workshop/content/](https://spinecone.gitbooks.io/build-a-bot-workshop/content/)
 
 ### I chose it because:
 * It is well documented and easy to follow.
