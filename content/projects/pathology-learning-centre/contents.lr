@@ -1,0 +1,9 @@
+title: Pathology Learning Centre
+---
+body: A Drupal site for my workplace, the University of Cape Town [Pathology Learning Centre](http://www.pathologylearningcentre.uct.ac.za/). I made use of custom CSS to visually differentiate the site from the other sites on the university's Drupal Content Management System. (Only one theme is available and other normal Drupal functionality is limited, e.g the ability to add extra [modules](https://www.drupal.org/project/project_module) etc.)
+---
+pub_date: 2017-01-19
+---
+summary: Drupal CMS site
+---
+cover_image: 1-plc.jpg
