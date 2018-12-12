@@ -10,10 +10,10 @@ This is a complex project that involved many steps:
 - Converting the BigTIFF files into image pyramids.
 - Coding the web app, using the Flask framework, Bootstrap and MySQL.
 - Integrating the [Leaflet](https://leafletjs.com/) open-source Javascript library to display the zoomable, interactive histology slides.
-- Connecting the app to SendGrid, so that students get emailed when their comments are moderated by the professor.
-- Deploying to DigitalOcean, setting up an Ubuntu droplet and then a SSL certificate via Let's Encrypt.
+- Connecting the app to [SendGrid](https://sendgrid.com/), so that students get emailed when their comments are moderated by the professor.
+- Deployment via [DigitalOcean](https://www.digitalocean.com/), which included setting up an Ubuntu droplet and a SSL certificate from [Let's Encrypt](https://letsencrypt.org/).
 
-A great learning experience.
+All in all a really valuable learning experience.
 
 
 ---
