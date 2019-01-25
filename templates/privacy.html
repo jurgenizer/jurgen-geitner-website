@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+{% block title %}{{ this.title }}{% endblock %}
+{% block body %}
+<h1 class="title has-text-primary">{{ this.title }}</h1> 
+
+<div class="columns">
+    <div class="column is-10 is-offset-1">
+        <div class="content">
+  
+                {{ this.body }}
+
+
+        </div>
+    </div> 
+</div> 
+ {% endblock %}    
+
+
