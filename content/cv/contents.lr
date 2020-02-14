@@ -9,7 +9,7 @@ body:
 > Creative and curious. Insightful. Determined. Transitioning to a software development role.
 
 ###Experience
-8 years: 		Senior Technical Officer, Pathology Learning Centre, University of Cape Town
+10 years: 		Senior Technical Officer, Pathology Learning Centre, University of Cape Town
 
 4 years: 		3D Architectural Visualisation Specialist
 
@@ -20,19 +20,25 @@ body:
 ###Education
 *Degrees and Diplomas* 
 
+**Batchelor of Commerce Honours (Information Systems Management)** University of Cape Town, 2019-2021
+
 **Batchelor of Science in Computing** University of South Africa, 2018
 
 **National Higher Diploma in Industrial Design** Technikon Witwatersrand, Johannesburg, 1995
 
 **National Diploma in Three-Dimensional Design** Technikon Witwatersrand, Johannesburg, 1994
 
-*Certificates and  Short Courses*
+*Certifications, Certificates and Short Courses*
+
+**AWS certified Cloud Practitioner** Amazon Web Services, 2019
 
 **UCT Web Content Management System: Domain Administrator workshop** University of Cape Town, 2014  
 
 **Data Analysis using R** COURSERA, 2013
 
 **Medical Terminology & Anatomy Course for Non-Healthcare professionals** Foundation for Professional Development, 2011
+
+**3D Animation** Damelin Computer School, 1996
 
 ###Work History
 *Current:*
@@ -85,7 +91,7 @@ English and Afrikaans
 
 ###Other Activities 	
 - UCT STOA Committee Member (Scientific & Technical Officers’ Association)
-- Mobile app development (iOS)
+- Mobile app development (Flutter Framework)
 - Surfing
 - Trail running
 
@@ -109,13 +115,15 @@ tableTechnicalSkills:
 | **Coding**                    |              |
 | HTML + CSS                    | Intermediate |
 | Swift                         | Intermediate |
-| Python                        | Intermediate |
+| Swift                         | Intermediate |
+| Dart                          | Novice       |
 | JavaScript                    | Novice       |
 | **Design**                    |              |
 | Autodesk 3DS Max              | Expert       |
 | Adobe Photoshop + Illustrator | Expert       |
 | Adobe After Effects           | Intermediate |
 | **Frameworks**                |              |
+| Flutter                       | Intermediate |
 | Bulma                         | Intermediate |
 | Lektor                        | Intermediate |
 | Flask                         | Novice       |
@@ -124,8 +132,8 @@ tableTechnicalSkills:
 | Bootstrap                     | Novice       |
 | **Dev Tools**                 |              |
 | Xcode                         | Intermediate |
+| Visual Studio Code            | Intermediate |
 | Git                           | Novice       |
-| VSCode                        | Novice       |
 | CocoaPods                     | Novice       |
 | **Content Management Systems**|              |
 | Wordpress                     | Expert       |
