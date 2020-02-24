@@ -2,11 +2,11 @@ title: About me
 ---
 body:
 
-I am an older student living in Cape Town, South Africa who is interested in the intersection of science, technology and design. I study computer science part-time and work as a Technical Officer in the Faculty of Health Sciences at the University of Cape Town. I have a Bachelor of Science (BSc) in Computing from the [University of South Africa](https://www.unisa.ac.za/) and a National Higher Diploma in Industrial Design from Witwatersrand Technikon (now called the University of Johannesburg).
+I am a tech/science/design geek living in Cape Town, South Africa. I study Information Systems Management part-time and work as a Technical Officer in the Faculty of Health Sciences at the University of Cape Town. I have a Bachelor of Science (BSc) in Computing from the [University of South Africa](https://www.unisa.ac.za/) and a National Higher Diploma in Industrial Design from Witwatersrand Technikon (now called the University of Johannesburg).
 
-When not working or studying I'm a trail-runner, surfer and hobbyist app-maker.
+When not working or studying I'm a trail-runner, surfer and hobbyist [app-maker](https://apps.apple.com/us/developer/jurgen-geitner/id1091994277).
 
-Thanks for visiting.
+Thanks for visiting!
 
 <section class="section">
     <div class="container is-fluid">
@@ -21,7 +21,7 @@ Thanks for visiting.
                 <img src="/static/kimchee.jpg" alt="Photo of Kimchee cat">
             </div>
             <div class="column is-one-quarter">
-                <img src="/static/jurgen-pathology-learning-centre.jpg" alt="Photo of Jurgen at work in the Pathology Learning Centre">
+                <img src="/static/jurgen-pathology-learning-centre.jpg" alt="Photo of Jurgen at work in the UCT Pathology Learning Centre">
             </div>
         </div>
     </div>
