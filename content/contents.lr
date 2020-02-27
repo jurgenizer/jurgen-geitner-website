@@ -4,13 +4,16 @@ body:
 
 I am a tech/science/design geek living in Cape Town, South Africa. I study Information Systems Management part-time and work as a Technical Officer in the Faculty of Health Sciences at the University of Cape Town. I have a Bachelor of Science (BSc) in Computing from the [University of South Africa](https://www.unisa.ac.za/) and a National Higher Diploma in Industrial Design from Witwatersrand Technikon (now called the University of Johannesburg).
 
-When not working or studying I'm a trail-runner, surfer and hobbyist [app-maker](https://apps.apple.com/us/developer/jurgen-geitner/id1091994277).
+When not working or studying I'm a trail-runner, surfer, hobbyist [app-maker](https://apps.apple.com/us/developer/jurgen-geitner/id1091994277) and [developer](https://github.com/jurgenizer).
 
 Thanks for visiting!
 
 <section class="section">
     <div class="container is-fluid">
-        <div class="columns is-multiline">
+        <div class="columns is-multiline is-mobile">
+            <div class="column is-full">
+                 <img src="/static/shuttersync-screenshot-1400.png" alt="Screenshot of a MVP app I developed using Apple Xcode & Swift">
+            </div>
             <div class="column is-one-quarter">
                  <img src="/static/jurgen-running.jpg" alt="Photo of Jurgen trail running">
             </div>
