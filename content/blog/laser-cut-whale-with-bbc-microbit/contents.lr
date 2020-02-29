@@ -1,0 +1,25 @@
+title: Laser cut whale with BBC micro:bit
+---
+author: Jurgen
+---
+body:
+
+<iframe src="https://player.vimeo.com/video/384168975" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/384168975">Laser cut whale with BBC micro:bit micro computer</a> from <a href="https://vimeo.com/jurgenizer">Jurgen Geitner</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+I designed and built this whale 'birthday card' for my girlfriend. Each year I try to make a card that is more elaborate and more novel than the previous year's version. Past versions have included, amongst others, a working papercraft maneki-neko and 2 bird-themed mobiles. Inspired by the [maker movement](https://www.techopedia.com/definition/28408/maker-movement), I decided to incorporate a BBC micro:bit in order to display a customizable birthday message. The [BBC micro:bit](https://www.microbit.org/) is a handheld, programmable micro-computer that can be used for all sorts of fun creations. It is easily programmed via a web browser or app, using Blocks, Javascript, Python or Scratch. The message displayed on the LEDs can be customized using any of the above programming languages. However, it can do much more than display messages (it has a built in accelerometer, compass, processor and blue-tooth  antenna, making it suitable for a wide range of DIY projects.)
+
+I edited the whale drawing using [Inskape](https://inkscape.org/), an open-source vector graphics editor which is a good, free alternative to Adobe Illustrator.
+
+Figuring out how to place the micro:bit and battery power supply was quite a challenge. I downloaded micro:bit scale drawings from [Kitronik](https://www.kitronik.co.uk/pdf/bbc_microbit_mechanical_datasheet_V2.pdf) which enabled me to mockup the component layout. Once sorted, I sent the files to [The Cuckoo's Nest](https://thecuckoosnest.co.za/) in Pinelands, Cape Town. (Quirky Name!) They did a great job, both supplying and cutting the plywood. The components fitted into their cutouts perfectly! The two sides of the whale where then glued together using wood spacers. Dowels support the micro:bit.
+
+I'm really pleased with how this project turned out. I'm especially impressed by the micro:bit device and surrounding code / project / tutorial ecosystem.  It is an ideal vehicle for teaching youngsters about electronics and code in a fun way.
+
+What to make for next year's card though?!
+
+---
+pub_date: 2019-12-15
+---
+summary: Each year I try to make a more elaborate and unique card
+---
+cover_image: whale-micro-bit.jpg
