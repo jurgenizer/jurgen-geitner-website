@@ -1,0 +1,29 @@
+title: PSA 2: Mobile phone tracking during COVID-19 lockdown in SA
+---
+author: Jurgen
+---
+body: The South African government is [contemplating](https://www.dailymaverick.co.za/article/2020-03-31-digital-privacy-during-a-global-emergency/) the use of location-based services, including mobile phone tracking, to contain the spread of COVID-19 (Hunter, M; Republic of South Africa, 2020).
+
+Digital location tracking may certainly help contain the virus’ spread. However, the new government directions are not clear with regards to scope of the information that can be collected. Nor are they clear on who exactly will have access to the harvested personal information. [Direction 8.1](https://openbylaws.org.za/za/act/gn/2020/417/eng/#section-8) states<br/> "The Electronic Communication Network Service (ENCS) and Electronic Communication Service Licensees, internet and digital sector in general, must provide location-based services in collaboration with the relevant authorities identified to support designated departments to assist and combat the spread of COVID-19." (Republic of South Africa, 2020, p. 6). Will the location information be real-time or historical? How long will the data be stored for and where? Who are the relevent authorities mentioned and what measures will they take to safeguard the personal information of South African citizens? Will the data be anonymized as far as possible? What about metadata - what can or cannot be collected? South Africans have long been stigmatized for being infected with a different virus (Peltzer et al., 2018; Pérez et al., 2016). Therefore it is important to protect the identity and privacy of those who have COVID-19, as far as posible. Will the new government surveillance measures be rolled back after the crisis? Civil liberties must be protected. As per Guariglia and Schwartz (2020), writing for the [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2020/03/protecting-civil-liberties-during-public-health-crisis): 
+* Privacy intrusions must be necessary and proportionate.
+* Data collection based on science, not bias. 
+* Transparency!
+
+References<br/>
+Guariglia, M., & Schwartz, A. (2020, March 10). Protecting Civil Liberties During a Public Health Crisis. <i>Electronic Frontier Foundation.</i> Retrieved from https://www.eff.org/deeplinks/2020/03/protecting-civil-liberties-during-public-health-crisis
+
+Hunter, M (2020, March 31). Digital privacy during a global emergency. <i>Daily Maverick.</i> Retrieved from https://www.dailymaverick.co.za/article/2020-03-31-digital-privacy-during-a-global-emergency/
+
+Peltzer, K., Babayigit, S., Rodriguez, V. J., Jean, J., Sifunda, S., & Jones, D. L. (2018). Effect of a multicomponent behavioural PMTCT cluster randomised controlled trial on HIV stigma reduction among perinatal HIV positive women in Mpumalanga province, South Africa. <i>Sahara J, 15</i>(1), 80–88. https://doi.org/10.1080/17290376.2018.1510787
+
+Pérez, G. M., Cox, V., Ellman, T., Moore, A., Patten, G., Shroufi, A., … Ibeto, M. (2016). “I know that I do have HIV but nobody saw me”: Oral HIV self-testing in an informal settlement in South Africa. <i>PLoS ONE, 11</i>(4), 1–15. https://doi.org/10.1371/journal.pone.0152653
+
+Republic of South Africa. (2020, March 26). Disaster Management Act, 2002. <i>Directions to facilitate the availability and use of digital technologies to combat the spread of COVID-19.</i> Government Gazette. (Vol. 657, No. 43164). Retrieved from https://openbylaws.org.za/za/act/gn/2020/417/eng/
+
+
+---
+pub_date: 2020-03-31
+---
+cover_image: mobile-tracking.png
+---
+summary: Privay-Security Announcement 2
