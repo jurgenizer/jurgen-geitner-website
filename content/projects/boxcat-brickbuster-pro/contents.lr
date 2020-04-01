@@ -7,7 +7,7 @@ Fun for all ages with this retro breakout-styled game!
 Your job as BoxCat is to deflect the ball and smash as many bricks as you can. (Use the cat as a paddle by sliding it across the screen with your finger.)
 Don't let the ball hit the ground or it's Game Over! 
 
-The basic app (before I extended the code) is based on a tutorial by Michael Briscoe on [raywenderlich.com](https://www.raywenderlich.com/1161-how-to-make-a-breakout-game-with-spritekit-and-swift-part-1).  I extended the code by adding a scoring mechanism that works with Apple's Game Centre. I created new graphics, added audio and improved the game's physics. Also, I added balloons.
+The basic app (before I extended the code) is based on a tutorial by Michael Briscoe on [raywenderlich.com](https://www.raywenderlich.com/1161-how-to-make-a-breakout-game-with-spritekit-and-swift-part-1).  I extended the code by adding a scoring mechanism that works with Apple's Game Centre. I created new graphics, added audio and improved the game's physics. Also, I added balloons. Balloons!
 
 [Download it for free from the Apple App Store](https://itunes.apple.com/us/app/boxcat-brickbuster-pro/id1165293662?mt=8)
 

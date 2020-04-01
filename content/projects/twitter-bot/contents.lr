@@ -8,7 +8,7 @@ summary: A Python Twitter bot.
 ---
 body:
 
-A Python/Tweepy bot that tweets inspirational messages. More detailed info in my blog post [here](/blog/building-my-first-twitter-bot/)
+A Python/Tweepy bot that tweets inspirational messages. More detailed info in my blog post [here](/blog/my-first-twitter-bot/)
 
 ### Visit the bot: [@DailyDesiderata](https://twitter.com/DailyDesiderata)
 

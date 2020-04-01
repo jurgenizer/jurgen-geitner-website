@@ -13,7 +13,7 @@ This is a complex project that involved many steps:
 - Connecting the app to [SendGrid](https://sendgrid.com/), so that students get emailed when their comments are moderated by the professor.
 - Deployment via [DigitalOcean](https://www.digitalocean.com/), which included setting up an Ubuntu droplet and a SSL certificate from [Let's Encrypt](https://letsencrypt.org/).
 
-All in all a really valuable learning experience.
+A mammoth learning experience.
 
 
 ---
