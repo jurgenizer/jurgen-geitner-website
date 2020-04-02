@@ -5,16 +5,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Jurgen Geitner, Software Developer, Designer, Lifelong Learner. Building and deploying quality apps.">
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-93516525-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-93516525-1');
-</script>
-
 <link rel="stylesheet" href="{{ '/static/jurgen-bulma.min.css'|url }}"> 
 <link rel="stylesheet" href="{{ '/static/responsive-video.css'|url }}"> 
 
@@ -55,37 +45,35 @@
 
     <div id="navbarMenu" class="navbar-menu">
     <div class="navbar-end">
-  
+      <a href="https://github.com/jurgenizer" class="navbar-item">
+        <i class="fab fa-github fa-fw"></i>&nbsp;GitHub
+      </a>
       <a href="{{ '/projects'|url }}" class="navbar-item">
-        Projects
+        <i class="fas fa-tasks"></i>&nbsp;Projects
       </a>
-      
       <a href="{{ '/cv'|url }}" class="navbar-item">
-        CV
+        <i class="fas fa-file-alt"></i>&nbsp;CV
       </a>
-      
-      <a href="{{ '/prehistory'|url }}" class="navbar-item">
-        Prehistory
+      <a href="{{ '/blog'|url }}" class="navbar-item">
+        <i class="fas fa-pencil-alt fa-fw"></i>&nbsp;Blog
       </a>
 
       <div class="navbar-item has-dropdown is-hoverable">
-        
+
         <a class="navbar-link">
           More
         </a>
 
             <div class="navbar-dropdown">
-                <a href="{{ '/blog'|url }}" class="navbar-item">
-                    <i class="fas fa-pencil-alt fa-fw"></i>&nbsp;Blog
-                </a>
+
                 <a href="{{ '/contact'|url }}" class="navbar-item">
                     <i class="fas fa-envelope fa-fw"></i>&nbsp;Contact
                 </a>
-                <a href="https://github.com/jurgenizer" class="navbar-item">
-                    <i class="fab fa-github fa-fw"></i>&nbsp;GitHub
-                </a>
                 <a href="https://www.linkedin.com/in/jurgen-geitner" class="navbar-item">
                     <i class="fab fa-linkedin fa-fw"></i>&nbsp;LinkedIn
+                </a>
+                <a href="{{ '/prehistory'|url }}" class="navbar-item">
+                    <i class="fas fa-history"></i>&nbsp;Prehistory
                 </a>
                 <a href="{{ '/privacy-policy'|url }}" class="navbar-item">
                     <i class="fas fa-info-circle fa-fw"></i></i>&nbsp;Privacy Policy
@@ -108,15 +96,10 @@
     </div>
 </section>
 
-
-
 <footer class="footer has-text-white">
     <div class="content has-text-centered">
     &copy; Copyright 2020 by Jurgen Geitner <a href="https://github.com/jurgenizer" title="Jurgen Geitner on GitHub"
             ><i class="fab fa-github"></i></a> | Made with <a href="https://www.getlektor.com/">Lektor</a> in Cape Town | Hosted by <a href="https://www.netlify.com">Netlify</a>    
-  
-    
-    
     </div>
 </footer>
 
