@@ -3,7 +3,6 @@
 {% block body %}
 <h1 class="title has-text-primary">{{ this.title }}</h1>
 
-<section class="section">
     <div class="content">
     <div class="box">
     {{ this.body }}
@@ -16,8 +15,8 @@
     {% set images = this.attachments.images.all() %}
     
     {% if images %}
-    <section class="section">
-        <div class="container is-fluid">
+
+        <div class="container">
             <div class="columns is-multiline">
             {% for image in images %}
                 <div class="column is-half">
@@ -26,15 +25,12 @@
             {% endfor %}
             </div>
         </div>
-    </section>      
+
     {% endif %}
 
-    
+    </div> 
+    </div> 
 
-    
-    </div> 
-    </div> 
-</section>  
   
 <section class="section">
 <div class="container">
@@ -42,7 +38,7 @@
 {% set older = siblings.next_page %}
 {% set newer = siblings.prev_page %}
 
-<nav class="pagination" role="navigation" aria-label="pagination">
+<nav class="pagination is-small" role="navigation" aria-label="pagination">
 
         {% if older %}
             <a class="pagination-previous" href="{{ older|url }}">Previous: {{ older.title }}</a>
