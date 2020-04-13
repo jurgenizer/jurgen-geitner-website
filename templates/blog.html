@@ -1,6 +1,6 @@
 {% extends "layout.html" %}
 {% from "macros/pagination.html" import render_pagination %}
-{% block title %}Thoughts and musings...{% endblock %}
+{% block title %}Thoughts{% endblock %}
 {% block body %}
 <h1 class="title has-text-primary">Blog</h1>
 
@@ -10,7 +10,7 @@
         <div class="columns is-multiline">
 
         {% for post in this.pagination.items %}
-        <div class="column is-half">
+        <div class="column is-one-third">
             <div class="box">
 
              
@@ -19,9 +19,11 @@
             {% set image = post.attachments.images.first() %}
             
             {% if image %}  
-                  <section class="section">   
-                 <a href="{{ post|url }}"><img src="{{ image.thumbnail(512)|url }}" alt="Image from the post {{ post.title }}"></a>
-                  </section>
+             
+              
+                 <a href="{{ post|url }}"><img class="post-img" src="{{ image.thumbnail(640)|url }}" alt="Image from the post {{ post.title }}" ></a>
+           
+                 
             {% endif %}
                         <p>{{ post.summary }}
             <a class="more" href="{{ post|url }}">Read more ...</a></p>

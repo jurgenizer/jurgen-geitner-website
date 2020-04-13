@@ -25,9 +25,9 @@ Click any of the prehistory items below to discover more.
             {% set image = post.attachments.images.first() %}
             
             {% if image %}  
-                  <section class="section">   
-                 <a href="{{ post|url }}"><img src="{{ image.thumbnail(400)|url }}" alt="Thumbnail image for {{ post.title }}"></a>
-                  </section>
+                
+                 <a href="{{ post|url }}"><img class="post-img" src="{{ image.thumbnail(640)|url }}" alt="Thumbnail image for {{ post.title }}"></a>
+                 
             {% endif %}
                         <p>{{ post.summary }}
             <a class="more" href="{{ post|url }}">Read more ...</a></p>
