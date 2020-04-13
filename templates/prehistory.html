@@ -11,23 +11,21 @@ A long, long time ago, in the era before I started my computer science degree, b
 Click any of the prehistory items below to discover more.
 </p>
 
-<section class="section">
-    <div class="container is-fluid">
+    <div class="container">
         <div class="columns is-multiline">
 
         {% for post in this.pagination.items %}
         <div class="column is-one-third">
             <div class="box">
 
-             
             <a href="{{ post|url }}" class="is-size-4 has-text-weight-normal">{{ post.title }}</a>
-        
+
             {% set image = post.attachments.images.first() %}
-            
+
             {% if image %}  
-                
+
                  <a href="{{ post|url }}"><img class="post-img" src="{{ image.thumbnail(640)|url }}" alt="Thumbnail image for {{ post.title }}"></a>
-                 
+
             {% endif %}
                         <p>{{ post.summary }}
             <a class="more" href="{{ post|url }}">Read more ...</a></p>
@@ -38,6 +36,5 @@ Click any of the prehistory items below to discover more.
 
         </div>
     </div>
-</section>
 
 {% endblock %}

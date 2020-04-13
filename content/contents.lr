@@ -8,8 +8,7 @@ When not working or studying I'm a trail-runner, surfer, hobbyist [app-maker](ht
 
 Thanks for visiting!
 
-<section class="section">
-    <div class="container is-fluid">
+<div class="container">
         <div class="columns is-multiline is-mobile">
             <div class="column is-full">
                  <img src="/static/shuttersync-screenshot-1400.png" alt="Screenshot of a MVP app I developed using Apple Xcode & Swift">
@@ -27,6 +26,6 @@ Thanks for visiting!
                 <img src="/static/jurgen-pathology-learning-centre.jpg" alt="Photo of Jurgen at work in the UCT Pathology Learning Centre">
             </div>
         </div>
-    </div>
-</section>   
+</div>
+
 
