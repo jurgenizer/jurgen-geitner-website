@@ -4,12 +4,15 @@ author: Jurgen
 ---
 body:
 
-[John Horton Conway](https://www.quantamagazine.org/john-conways-life-in-games-20150828/) died on 11 April 2020.
-Prolific in many branches of mathematics, Conway was a professor at both Princeton University and Cambridge. Despite having an Erdös number of one,  he is arguable most famous for his cellular automaton, [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
-Image source: [wikipedia](https://en.wikipedia.org/wiki/File:Game_of_life_Simkin_glider_gun.svg)
+[John Horton Conway](https://www.quantamagazine.org/john-conways-life-in-games-20150828/) died on 11 April 2020. I found out about this sad news via [SMBC](http://smbc-comics.com/comic/life-2). [XKCD](https://xkcd.com/2293/) also has a clever tribute.
+Prolific in many branches of mathematics, Conway was a professor at both Princeton University and Cambridge. Despite having an Erdös number of one, he is arguably most famous for his cellular automaton, [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). 
+ 
+Some years ago Google made an Easter Egg celebrating Conway's cellular automaton; enter "Conway's Game of Life" in a Google search box to see pale blue cellular patterns emerging from the side of your browser's screen.
+
+Image source: <a href="https://commons.wikimedia.org/wiki/File:John_H_Conway_2005.jpg" title="via Wikimedia Commons">&quot;Thane Plambeck&quot;</a> / <a href="https://creativecommons.org/licenses/by/2.0">CC BY</a>
 ---
 pub_date: 2020-04-13
 ---
 summary: John Horton Conway (1937 - 2020)
 ---
-cover_image: 1024px-game_of_life_simkin_glider_gun.png
+cover_image: 1024px-john_h_conway_2005.jpg

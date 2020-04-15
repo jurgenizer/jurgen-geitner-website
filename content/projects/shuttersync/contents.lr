@@ -1,0 +1,13 @@
+title: ShutterSync
+---
+body:
+
+This app was inspired by a comment my girlfriend made; she said "I am convinced that your phone takes better photos than mine." However, at the time we both had identical iPhones. I thought to myself, "It is conceivable that there are differences in camera performance between identical phones. However, I imagine that they would be imperceptibly slight differences. Also, the user (photographer) and conditions are usually different. What can I do to empirically test both iPhone cameras? Perhaps I can build an app that takes a photo on each phone simultaneously, using a WiFi / Bluetooth connection to link the phones. If both phones are situated side-by-side, focused on the same subject, and a photo is taken, the resulting images should be identical. (Unless one iPhone's camera is indeed better than the other.)" And thus the [ShutterSync](https://apps.apple.com/us/app/shuttersync/id1449116038) app was born. It is a minimum viable product (MVP) and although it needs a lot of refinement, it does work. (Note: in initial testing both my girlfriend's iPhone and mine performed identically. Further testing and pixel-peeping is required!)
+
+Thanks to [Hacking with Swift](https://www.hackingwithswift.com/example-code/networking/how-to-create-a-peer-to-peer-network-using-the-multipeer-connectivity-framework) for the MultipeerConnectivity framework code example.
+---
+pub_date: 2020-04-15
+---
+cover_image: appicon-1024.png
+---
+summary: MultipeerConnectivity framework MVP
