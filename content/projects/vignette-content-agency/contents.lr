@@ -1,0 +1,13 @@
+title: Vignette Content Agency
+---
+body:
+
+A simple, elegant landing page and contact form for Vignette Content Agency. The site was built with [Hugo](https://gohugo.io/), the contact form with [Formspree](https://formspree.io/). (Formspree is a very good form solution for static sites.) 
+
+Deployed via [Netlify](https://www.netlify.com/).
+---
+summary: Hugo landing page deployed via Netlify.
+---
+pub_date: 2020-08-09
+---
+cover_image: vignette-contact.jpg
