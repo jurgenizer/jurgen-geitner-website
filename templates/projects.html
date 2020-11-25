@@ -19,11 +19,10 @@ Click any of the projects below to learn more.
 
             <a href="{{ post|url }}" class="is-size-4 has-text-weight-normal">{{ post.title }}</a>
 
-            {% set image = post.attachments.images.first() %}
-
+            {% set image = post.attachments.get(post.cover_image) %}
             {% if image %}  
 
-                 <a href="{{ post|url }}"><img class="post-img" src="{{ image.thumbnail(640)|url }}" alt="Thumbnail image for {{ post.title }}"></a>
+                 <a href="{{ post|url }}"><img class="post-img" src="{{ image.thumbnail(420)|url }}" alt="Thumbnail image for {{ post.title }}"></a>
 
             {% endif %}
                         <p>{{ post.summary }}
