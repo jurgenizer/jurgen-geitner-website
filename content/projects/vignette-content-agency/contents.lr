@@ -1,9 +1,9 @@
 title: Vignette Content Agency
 ---
-body: This site started out as a simple landing page and contact form for [Vignette](https://vignette.agency/). The site was originally made with [Hugo](https://gohugo.io/), and the contact form implemented with [Formspree](https://formspree.io/). (Formspree is an excellent contact form solution for static sites.) The site has since evolved into a photographic portfolio site, built with a Python-based Static Content Management System [(Lektor)](https://www.getlektor.com/) and the [Bulma](https://bulma.io/) CSS Framework. Deployed via [Netlify](https://www.netlify.com/).
+body: This site started out as a simple landing page and contact form for [Vignette Content Agency](https://vignette.agency/), made with [Hugo](https://gohugo.io/). The contact form was implemented with [Formspree](https://formspree.io/). (Formspree is an excellent contact form solution for static sites.) The site has since evolved into a photographic portfolio site, built with a Python-based Static Content Management System [(Lektor)](https://www.getlektor.com/) and the [Bulma](https://bulma.io/) CSS Framework. The whole shebang is deployed via [Netlify](https://www.netlify.com/).
 ---
-summary: Hugo landing page deployed via Netlify.
+summary: This site started out as a simple landing page and contact form
 ---
 pub_date: 2020-08-09
 ---
-cover_image: vignette-1.jpg
+cover_image: vignette-agency-1.jpg

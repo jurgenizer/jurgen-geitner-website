@@ -1,0 +1,13 @@
+title: Pathology Lexicon A-Z
+---
+body:
+
+My [UCT colleagues](http://www.pathologylearningcentre.uct.ac.za/contributors) and I have launched Pathology Lexicon A-Z. The app is designed for undergraduate medical students. Anatomical pathology terms are described, with isiXhosa and Afrikaans translations provided. I developed the app using [Dart and Flutter](https://flutter.dev/) and also took the specimen photographs. Thanks to Dr Jane Yeats for the concept and pathology descriptions. Thanks also to [Ms Nolubabalo Tyam, UCT Multilingualism Education Project](http://www.mep.uct.ac.za/mep/translation) (isiXhosa translation), [Dr Frans-Peter Botha](https://www.scopus.com/authid/detail.uri?authorId=57193916735) (Afrikaans translation) Melvin Lawrence (specimen restoration) and Dr Lynelle Govender (forthcoming research).
+[Apple App Store](https://apps.apple.com/us/app/pathology-lexicon-a-z/id1488333058)
+[Google Play](https://play.google.com/store/apps/details?id=com.jurgengeitner.pathlexi&hl=en_US&gl=US)
+---
+pub_date: 2020-09-01
+---
+summary: My UCT colleagues and I have launched Pathology Lexicon A-Z
+---
+cover_image: pathlexi-1.png
