@@ -47,7 +47,7 @@ body:
 **Senior Technical Officer** Pathology Learning Centre (PLC), University of Cape Town, 2010 - present  
 *Multi-faceted digital technology role, supporting undergraduate and postgraduate education*
 
-Developed a cross-platform Flutter mobile app for teaching pathology terms to undergraduate medical students. Coded entire app, photographed all content and integrated feedback form with Mailgun email API. 
+Developed a cross-platform Flutter mobile app for teaching pathology terms to undergraduate medical students. Coded app and photographed content. Integrated feedback form with Mailgun email API. 
  iOS version available [here](https://apps.apple.com/us/app/pathology-lexicon-a-z/id1488333058), Android version available [here](https://play.google.com/store/apps/details?id=com.jurgengeitner.pathlexi)
 
 Designed, developed and deployed a novel Python + Flask web app, used to display extremely high-resolution histology slides and quiz anatomical pathology postgraduate students.
