@@ -1,6 +1,6 @@
 title: Vignette Content Agency
 ---
-body: This site started out as a simple landing page and contact form for [Vignette Content Agency](https://vignette.agency/), made with [Hugo](https://gohugo.io/). The contact form was implemented with [Formspree](https://formspree.io/). (Formspree is an excellent contact form solution for static sites.) The site has since evolved into a photographic portfolio site, built with a Python-based Static Content Management System [(Lektor)](https://www.getlektor.com/) and the [Bulma](https://bulma.io/) CSS Framework. The whole shebang is deployed via [Netlify](https://www.netlify.com/).
+body: This site started out as a simple landing page and contact form for [Vignette Content Agency](https://vignette.agency/), made with [Hugo](https://gohugo.io/). The contact form was implemented with [Formspree](https://formspree.io/). (Formspree is an excellent contact form solution for static sites.) The site has since evolved into a photographic portfolio site, built with a Python-based Static Content Management System [(Lektor)](https://www.getlektor.com/) and the [Bulma](https://bulma.io/) CSS Framework. The whole shebang is deployed via [Netlify](https://www.netlify.com/). Thank you to W3Bits for the [CSS Flexbox masonry layout tutorial](https://w3bits.com/flexbox-masonry/).
 ---
 summary: This site started out as a simple landing page and contact form
 ---
