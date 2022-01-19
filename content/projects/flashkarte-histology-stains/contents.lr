@@ -6,7 +6,8 @@ This app contains 21 Histology Stain Flashcards that are randomly presented, all
 I made this to learn about histology stains myself, and also to learn about Swift app development. 
 The basic app (before I modified the code) is based on the work of [Yong Bakos](https://github.com/SwiftEducation/Flashcards).
 
-[Download it for free from the Apple App Store](https://itunes.apple.com/us/app/flashkarte-histology-stains/id1137984274?mt=8)
+~~[Download it for free from the Apple App Store](https://itunes.apple.com/us/app/flashkarte-histology-stains/id1137984274?mt=8)~~
+This old app has been removed from the Apple App Store. However, the source code is available on [GitHub](https://github.com/jurgenizer/flashkarte-histology-stains)
 
 ---
 pub_date: 2017-01-02
