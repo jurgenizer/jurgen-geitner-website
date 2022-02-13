@@ -8,18 +8,21 @@ body:
     <div class="field">
         <label class="label">Name</label>
         <div class="control">
-            <input class="input" type="email" name="email" placeholder="Your email">
+            <input class="input" type="text" name="name" id="full-name" placeholder="First and last" required>
         </div>
     </div>    
-                
-                
+   <div class="field">
+        <label class="label">Email address</label>
+        <div class="control">
+            <input class="input" type="email" name="email"  id="email" placeholder="Your email"  required>
+        </div>
+    </div>                            
     <div class="field">
         <label class="label">Message</label>
         <div class="control">                
             <textarea class="textarea" name="message" placeholder="Your message"></textarea>
         </div>
     </div>  
-    
     <div class="field">
         <div class="control">
             <button class="button is-link" type="submit">Send</button>
