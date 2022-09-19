@@ -1,3 +1,6 @@
 /build
 content/projects/.DS_Store
 *.DS_Store
+.DS_Store
+assets/.DS_Store
+content/.DS_Store
