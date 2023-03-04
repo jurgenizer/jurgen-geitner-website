@@ -1,8 +1,8 @@
-title: UCT PathSlides
+title: SlideDB
 ---
 body:
 
-[UCT PathSlides](https://uctpathslides.cloud/) is a Python + Flask web app, used to display extremely high-resolution histology slides and quiz anatomical pathology students. (A login is required to view it.)
+[Slide DB](https://github.com/jurgenizer/slidedb) is a Python + Flask web app, used to display extremely high-resolution histology slides and quiz anatomical pathology students.
 
 This is a complex project that involved many steps:
 - Digitising the histology slides using an Olympus VS120 virtual microscope.
@@ -21,4 +21,4 @@ pub_date: 2018-05-05
 ---
 cover_image: 0uctpathslides.jpg
 ---
-summary: UCT PathSlide is a Python + Flask web app, used to display extremely high-resolution histology slides and quiz pathology students
+summary: Slide DB is a Python + Flask web app, used to display extremely high-resolution histology slides and quiz pathology students
