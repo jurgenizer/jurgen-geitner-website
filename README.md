@@ -1,3 +1,3 @@
 # jurgen-geitner-website
 
-The site needs a refresh. I have therefore taken it offline until I have time to update it.
+The site needs a refresh and I have therefore taken it offline.
